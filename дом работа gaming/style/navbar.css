@@ -1,0 +1,48 @@
+nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+ }
+ .nav_h1{
+ font-family: Poppins;
+font-size: 29px;
+font-weight: 800;
+line-height: 44.51px;
+color: #FFFFFF;
+width: 82px;
+height: 45px;
+margin-left: 70px;
+margin-top: 30px;}
+   
+ .nav_list{
+    display: flex;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: #FFFFFF;
+list-style: none;
+flex-direction:row;
+gap: 100px;
+ }
+ .nav_div{
+margin-right: 80px;
+margin-top: 30px;
+display: flex;
+flex-direction: row;
+gap: 40px;
+align-items: center;
+ }
+ .nav_button{
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 400;
+line-height: 19.5px;
+ color: #FFFFFF;
+ border-radius: 6px;
+ background-color:#FA9021;
+ width: 131.77px;
+height: 41.34px;
+ }

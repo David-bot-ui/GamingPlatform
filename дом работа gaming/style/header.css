@@ -1,0 +1,82 @@
+header{
+    background-color: black;
+   
+ }
+  .header_section{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-between;
+    
+  }
+ .div_list{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-left: 230px;
+   
+ }
+  
+ 
+ .header_h2{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 31.04px;
+ color: #E87D0E;
+ }
+ .header_h1{
+    font-family: Poppins;
+font-size: 50px;
+font-weight: 700;
+line-height: 77.6px;
+ color: #FFFFFF;
+ max-width: 400px;
+ }
+ .header_buton{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+background: linear-gradient(92.48deg, #FA8305 2.08%, #FB9E3C 117.25%);
+border-radius: 40px;
+width: 195px;
+height: 53px;
+text-align: center;
+color: #FFFFFF;
+ }
+ .header_p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 32px;
+ color: #FFFFFF;
+ max-width: 450px;
+ }
+ .images_header{
+    margin-left: 500px;
+ }
+ .joy_stick{
+  position: relative;
+  bottom: 100px;
+  right: 40px;
+ }
+ .unity{
+    width: 130px;
+    position: absolute;
+    left: 900px;
+    top: 400px;
+    }
+    .cry{
+        position: absolute;
+        left: 1200px;
+        top: 200px;
+        width: 130px;
+    }
+    .unreal{
+        position: absolute;
+        width: 70px;
+        top: 220px;
+        left: 1600px;
+    }
